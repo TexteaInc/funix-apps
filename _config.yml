@@ -22,8 +22,8 @@ title: Funix
 email: forrest.bao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Funix: the laziest way to build apps in Python. Showcasing the awesome ideas and work people are doing on the Funix Cloud.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/funix-io" # the subpath of your site, e.g. /blog
+url: "https://texteainc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TexteaInc
 
 # Build settings
